@@ -1,2 +1,2 @@
 # Skeleton
-Microservices Dashboard.
+Microservices JavaScript/Java based Dashboard.
